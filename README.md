@@ -55,7 +55,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-three-zeta-ac6x1ty7e6.vercel.app/api?username=Mationetap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-three-zeta-ac6x1ty7e6.vercel.app/api/top-langs/?username=Mationetap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-three-zeta-ac6x1ty7e6.vercel.app/api/top-langs/?username=Mationetap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
