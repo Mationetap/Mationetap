@@ -54,8 +54,17 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-three-zeta-ac6x1ty7e6.vercel.app/api?username=Mationetap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true&include_orgs=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-three-zeta-ac6x1ty7e6.vercel.app/api/top-langs/?username=Mationetap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&include_all_commits=true&count_private=true&include_orgs=true" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/Mationetap/Mationetap/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/Mationetap/Mationetap/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img height="180" src="https://raw.githubusercontent.com/Mationetap/Mationetap/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/Mationetap/Mationetap/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/Mationetap/Mationetap/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
 </div>
 
 <div align="center">
